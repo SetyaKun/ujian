@@ -1,2 +1,0 @@
-# ujian
-hanya untuk ujian
